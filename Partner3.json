@@ -1,0 +1,68 @@
+{
+  "allowHttpBackend": false,
+  "backendCommand": "node index.js",
+  "backendFolderName": "C:\\Users\\guill\\Desktop\\partner3\\socket",
+  "certificateExceptions": [],
+  "extensionViews": [],
+  "manifest": {
+    "anchor": "panel",
+    "assetUrls": [],
+    "authorName": "",
+    "bitsEnabled": false,
+    "canInstall": true,
+    "configUrl": "https://y5wxbjuivg2iwmogoe675xfm0bn2ta.ext-twitch.tv/y5wxbjuivg2iwmogoe675xfm0bn2ta/0.0.1/c4ba9b5e1963c725bf98ff990117dde9/config.html",
+    "configurationLocation": "hosted",
+    "description": "",
+    "eulaTosUrl": "",
+    "hasChatSupport": true,
+    "iconUrl": "",
+    "iconUrls": {},
+    "id": "y5wxbjuivg2iwmogoe675xfm0bn2ta",
+    "installationCount": -42,
+    "liveConfigUrl": "",
+    "name": "Partner Predictions",
+    "panelHeight": 500,
+    "privacyPolicyUrl": "",
+    "requestIdentityLink": true,
+    "requiredBroadcasterAbilities": [],
+    "screenshotUrls": [],
+    "sku": "",
+    "state": "Assets Uploaded",
+    "subscriptionsSupportLevel": "none",
+    "summary": "",
+    "supportEmail": "",
+    "vendorCode": "",
+    "version": "0.0.1",
+    "viewerSummary": "",
+    "viewerUrl": "https://y5wxbjuivg2iwmogoe675xfm0bn2ta.ext-twitch.tv/y5wxbjuivg2iwmogoe675xfm0bn2ta/0.0.1/c4ba9b5e1963c725bf98ff990117dde9/index.html",
+    "viewerUrls": {
+      "mobile": "https://y5wxbjuivg2iwmogoe675xfm0bn2ta.ext-twitch.tv/y5wxbjuivg2iwmogoe675xfm0bn2ta/0.0.1/c4ba9b5e1963c725bf98ff990117dde9/mobile.html",
+      "panel": "https://y5wxbjuivg2iwmogoe675xfm0bn2ta.ext-twitch.tv/y5wxbjuivg2iwmogoe675xfm0bn2ta/0.0.1/c4ba9b5e1963c725bf98ff990117dde9/index.html"
+    },
+    "views": {
+      "mobile": {
+        "viewerUrl": "https://y5wxbjuivg2iwmogoe675xfm0bn2ta.ext-twitch.tv/y5wxbjuivg2iwmogoe675xfm0bn2ta/0.0.1/c4ba9b5e1963c725bf98ff990117dde9/mobile.html"
+      },
+      "panel": {
+        "viewerUrl": "https://y5wxbjuivg2iwmogoe675xfm0bn2ta.ext-twitch.tv/y5wxbjuivg2iwmogoe675xfm0bn2ta/0.0.1/c4ba9b5e1963c725bf98ff990117dde9/index.html",
+        "height": 500,
+        "canLinkExternalContent": true
+      },
+      "config": {
+        "viewerUrl": "https://y5wxbjuivg2iwmogoe675xfm0bn2ta.ext-twitch.tv/y5wxbjuivg2iwmogoe675xfm0bn2ta/0.0.1/c4ba9b5e1963c725bf98ff990117dde9/config.html",
+        "canLinkExternalContent": true
+      }
+    },
+    "whitelistedConfigUrls": [
+      ""
+    ],
+    "whitelistedPanelUrls": [
+      ""
+    ]
+  },
+  "frontendCommand": "",
+  "frontendFolderName": "",
+  "name": "Partner3",
+  "usingRandomFrontendHostingPort": false,
+  "version": 3
+}
